@@ -37,6 +37,18 @@ While watching videos a person with a hearing disability often can’t understan
  - Bootstrap
  - Pyaudio
 
+# Future Enhancements:
+
+## Lip Reading and Sign Language
+In the lip reading part the tutorial only focuses on single words, but it can be extended to a sentence to provide advanced exercises and the same can be implemented for sign language. 
+
+## Speech Assistance
+There can be added functionality where a text to speech engine first converts the text entered to speech and then a human face that enunciates clearly how to speak that sentence. This will help users imitate the same sounds and thus improve their pronunciation capabilities.
+
+## Transcript
+The major problem with the transcript feature was the inefficiency of the speech-to-text engine as it’s a multi-step process of first extracting the audio from the video and then parsing the audio to generate text. This currently makes the text lag 6-7 seconds behind the video but it can be improved significantly!
+
+
 # Steps to Run it locally:
 
 ## Prerequisites
@@ -65,15 +77,3 @@ pip install venv
    `python application.py`
 
 Finally, open any browser and type in localhost:5000 or 127.0.0.1:500
-
-# Future Enhancements:
-
-## Lip Reading and Sign Language
-In the lip reading part the tutorial only focuses on single words, but it can be extended to a sentence to provide advanced exercises and the same can be implemented for sign language. 
-
-## Speech Assistance
-There can be added functionality where a text to speech engine first converts the text entered to speech and then a human face that enunciates clearly how to speak that sentence. This will help users imitate the same sounds and thus improve their pronunciation capabilities.
-
-## Transcript
-The major problem with the transcript feature was the inefficiency of the speech-to-text engine as it’s a multi-step process of first extracting the audio from the video and then parsing the audio to generate text. This currently makes the text lag 6-7 seconds behind the video but it can be improved significantly!
-
