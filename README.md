@@ -1,6 +1,8 @@
 # Project Infrasound
 ## An MOOC / E-Learning model app that helps facilitate assistive learning for people with Hearing Disability
 
+![**Slideshow**](/Slideshow.gif)
+
 ## Motivation
 Over 5% of the world’s population(430 million people) require rehabilitation to address their ‘disabling’ hearing loss (432 million adults and 34 million children). 
 They more often than not have imperfect development of speech & language
