@@ -23,7 +23,7 @@ While watching videos a person with a hearing disability often can’t understan
 
 [**Screenshots**](/Screenshots)
 
-[**Demo Video**](/Infrasound.mp4)
+[**Demo Video**](/INFRASOUND.mp4)
 
 ## Softwares and Libraries Used:
  - Python 
