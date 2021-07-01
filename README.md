@@ -2,14 +2,28 @@
 ## An MOOC / E-Learning model app that helps facilitate assistive learning for people with Hearing Disability
 
 ## Motivation
-- Over 5% of the world’s population(430 million people) require rehabilitation to address their ‘disabling’ hearing loss (432 million adults and 34 million children). 
-- More often than not, they have imperfect development of speech and language skills.
-- Students with this disability often have difficulty in maintaining their academic performance and gaining knowledge in today’s fast paced world.
-- It is estimated that by 2050 over 700 million people – or one in every ten people – will have disabling hearing loss.
+Over 5% of the world’s population(430 million people) require rehabilitation to address their ‘disabling’ hearing loss (432 million adults and 34 million children). 
+They more often than not have imperfect development of speech & language
+It is estimated that by 2050 over 700 million people – or one in every ten people – will have disabling hearing loss.
 
-An efficient software to aid in such student's learning is truly the need of the hour. 
+People with hearing disabilities regularly face difficulties while having conversations on different occasions. 
+A hearing aid is a wonderful device, helpful for those people whose hearing disabilities can be cured using it and those who can afford it. But a lot of people’s disabilities cannot be cured using a hearing aid or they cannot afford it. For such people, the only option is either communicating using sign language and using lip-reading or a combination of both.
+
+Sign language has evolved manifolds over the years and it allows for effective communication but the huge catch is not many people in the world sign language primarily because it is not that easy to learn and can take years to gain even a passable proficiency. 
+
+Now the benefit of lip reading is that the other person does not need to learn sign language to communicate and they can do so by correctly enunciating their speech. 
 
 ## Features
+
+Our App focuses on helping such people by features like “**Lip Reading Tutorial**”, ”**Sign Language Tutorial**”. These features help them practice and improvise their abilities to understand whatever the other person is saying while having a real conversation. 
+
+On the other hand, “**Speech Assistance**” features help us know how fast or slow we are talking so that we can change the speed accordingly to give a better presentation. 
+
+While watching videos a person with a hearing disability often can’t understand what the person is trying to convey because lip-reading at that pace is almost next to impossible. The feature “**Video Transcript**” generates auto-subtitles and can help them better understand the context of the video.
+
+[**Screenshots**](/Screenshots)
+
+[**Demo Video**](/Infrasound.mp4)
 
 ## Softwares and Libraries Used:
  - Python 
